@@ -1,6 +1,6 @@
 #Gerenciador de Tarefas
 Este é um programa simples em C para gerenciar tarefas. Ele permite que você crie, liste, delete e salve  tarefas a partir de um arquivo.
-Para utilizar execute o main.c em ./src
+Para utilizar compile com "gcc -o main src/main.c src/tarefas.c src/tarefas.h" e execute o main.c em ./src
 
 
                                                Funcionalidades
